@@ -1,6 +1,3 @@
-# train model for emojinator
-# author: Rudra Narayan Mishra
-
 import tensorflow
 import tensorflow.keras
 import numpy as np
