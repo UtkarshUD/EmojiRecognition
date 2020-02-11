@@ -1,5 +1,4 @@
-# application class for emojinator
-# author: Rudra Narayan Mishra
+
 
 import cv2
 import tensorflow as tf
