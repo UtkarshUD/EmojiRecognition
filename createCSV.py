@@ -1,5 +1,4 @@
-# creating the CSV file
-# author: Rudra Narayan Mishra
+
 
 from scipy.misc import imread
 import numpy as np
