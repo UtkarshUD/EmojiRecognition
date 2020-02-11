@@ -1,6 +1,3 @@
-# create a database class for emojinator
-# author:- Rudra Narayan Mishra
-
 import cv2
 import numpy as np
 import os
